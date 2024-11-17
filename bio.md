@@ -29,7 +29,7 @@ h3 {
 </style>
 
 ### Артериальное давление - показатель, который характеризует деятельность сердечно-сосудистой системы. Определяется артериальное давление с помощью тонометров.
-![alt text](image-4.png)
+![alt text](https://borcrb.ru/wp-content/uploads/2024/01/davlenie2019.jpg)
 
 ---
 <style>
@@ -76,7 +76,7 @@ h4 {
    
 ---
 
-![bg w:50%](image-5.png)
+![bg w:50%](https://ivanovo.uzodc.ru/upload/iblock/4e3/r3w92kzlo3nv6ouymje9hp3ug9xshnsa.jpg)
 
 ---
 #### Автоматические тонометры
@@ -105,8 +105,8 @@ h4 {
   
 ---
 
-![](image-6.png)
-![bg right:50% w:580](image-7.png)
+![](https://spb.uteka.ru/media/768/5/f4/5f417fb5ad4254a681a8b1846b336597.jpg)
+![bg right:50% w:580](https://herzband.com/image/cache/catalog/HerzBandT1/3543168694_211847460-750x750.jpg)
 
 ---
 
@@ -118,10 +118,10 @@ h4 {
 
 ---
 
-![bg ](image-8.png)
+![bg ](https://aaamed.ru/wa-data/public/shop/products/07/29/2907/images/76/76.350.jpg)
 
 ---
 
 <!--_class: invert-->
 #### Спасибо за внимание!
-![bg w:40%](image-9.png)
+![bg w:40%](https://cdn.stolichki.ru/s/media/articles/08256b894e3035cc2bda0408e80457ec.jpg)
